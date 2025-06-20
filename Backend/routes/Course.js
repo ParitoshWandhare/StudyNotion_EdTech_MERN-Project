@@ -27,7 +27,7 @@ const {createSection,updateSection,deleteSection} = require("../controllers/Sect
 const {createSubSection,updateSubSection,deleteSubSection} = require("../controllers/Subsection")
 
 // Rating Controllers Import
-const {createRating,getAverageRating,getAllRatingReview} = require("../controllers/RatingandReview")
+const {createRating,getAverageRating,getAllRatingReview} = require("../controllers/RatingAndReview")
 
 
 const {updateCourseProgress,getProgressPercentage} = require("../controllers/courseProgress")
