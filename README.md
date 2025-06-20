@@ -58,6 +58,13 @@ This is my **first solo full-stack project**, built from scratch using the MERN 
 
 ---
 
+## 📸 Demo
+
+> 🔗 [Live Site](https://study-notion-ed-tech-mern-frontend.vercel.app/)
+
+
+---
+
 ## 📦 Installation
 
 1. **Clone the repo**
