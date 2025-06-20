@@ -1,11 +1,11 @@
-StudyNotion
+# **StudyNotion**
 
 StudyNotion is a full-stack EdTech platform where instructors can create and manage courses, and students can browse, purchase, and learn through an intuitive learning dashboard.  
 This is my **first solo full-stack project**, built from scratch using the MERN stack and integrated with Razorpay for secure payments.
 
+---
 
-
-🚀 Features
+##🚀 Features
 
 👨‍🏫 For Instructors:
 - Create, update, and manage courses
@@ -46,6 +46,8 @@ This is my **first solo full-stack project**, built from scratch using the MERN 
 - Home Page
 - About Page
 - Contact Us
+- Catalog Page
+- Course Detail Page
 - Instructor Dashboard
 - My Courses
 - Add/Edit Course
@@ -53,14 +55,6 @@ This is my **first solo full-stack project**, built from scratch using the MERN 
 - My Profile
 - Settings
 
----
-
-## 📸 Demo
-
-> 🔗 [Live Site](https://your-live-link-here.com)  
-> 🎥 [Demo Video](https://your-demo-video-link-here.com) *(optional)*
-
-![StudyNotion Screenshot](./assets/studynotion-banner.png) <!-- Replace with your screenshot path -->
 
 ---
 
@@ -70,3 +64,19 @@ This is my **first solo full-stack project**, built from scratch using the MERN 
    ```bash
    git clone https://github.com/yourusername/studynotion.git
    cd studynotion
+
+2. Backend setup
+   ```bash
+   cd backend
+   npm install
+   npm run dev
+   
+3. Environment Variables
+
+   ```bash
+   Create .env files for both frontend and backend with necessary keys like:
+   MONGODB_URI
+   JWT_SECRET
+   RAZORPAY_KEY_ID and KEY_SECRET
+   CLOUDINARY_CLOUD_NAME, API_KEY, API_SECRET
+   EMAIL_USER, EMAIL_PASS (for nodemailer)
