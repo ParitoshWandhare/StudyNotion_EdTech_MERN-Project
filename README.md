@@ -5,14 +5,14 @@ This is my **first solo full-stack project**, built from scratch using the MERN 
 
 ---
 
-##🚀 Features
+## 🚀 Features
 
-👨‍🏫 For Instructors:
+### 👨‍🏫 For Instructors:
 - Create, update, and manage courses
 - Upload course videos (via Cloudinary)
 - Monitor enrolled students and earnings
 
-👨‍🎓 For Students:
+### 👨‍🎓 For Students:
 - Browse courses by category
 - View course details (description, price, content, etc.)
 - Add to cart and purchase via Razorpay
@@ -80,3 +80,18 @@ This is my **first solo full-stack project**, built from scratch using the MERN 
    RAZORPAY_KEY_ID and KEY_SECRET
    CLOUDINARY_CLOUD_NAME, API_KEY, API_SECRET
    EMAIL_USER, EMAIL_PASS (for nodemailer)
+
+---
+
+## 🧠 Learnings
+- Designed and built a scalable multi-role authentication system
+- Integrated Razorpay for real payment processing
+- Deployed media assets using Cloudinary
+- Managed state and user sessions in a MERN app
+
+---
+
+## 🙋‍♂️ Author
+Paritosh Wandhare
+3rd Year IT Student | Full Stack Developer
+🔗 [LinkedIn](www.linkedin.com/in/paritosh-wandhare-959615290)
