@@ -24,7 +24,7 @@ app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
     //origin: process.env.FRONTEND_URL,
-    origin: "http://localhost:3000",
+    origin: "*",
     credentials: true,
 }))
 app.use(fileUpload({
