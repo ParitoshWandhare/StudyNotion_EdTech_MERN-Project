@@ -92,6 +92,6 @@ This is my **first solo full-stack project**, built from scratch using the MERN 
 ---
 
 ## 🙋‍♂️ Author
-Paritosh Wandhare
-3rd Year IT Student | Full Stack Developer
-🔗 [LinkedIn](www.linkedin.com/in/paritosh-wandhare-959615290)
+- Paritosh Wandhare
+- 3rd Year IT Student | Full Stack Developer
+- 🔗 [LinkedIn](www.linkedin.com/in/paritosh-wandhare-959615290)
